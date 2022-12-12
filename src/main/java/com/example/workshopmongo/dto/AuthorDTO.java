@@ -1,7 +1,6 @@
 package com.example.workshopmongo.dto;
 
 import java.io.Serializable;
-import java.util.Objects;
 
 import com.example.workshopmongo.domain.User;
 
